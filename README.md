@@ -16,6 +16,7 @@ There are two files available, **cqrssdl.py** and **crqssdl_ala.py**.
 
 Please execute the following in your terminal: 
 >python cqrssdl.py
+
 >python cqrssdl_ala.py
 
 ## How to automate the download
