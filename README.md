@@ -34,4 +34,5 @@ MIT
 ## Thanks
 
 alexgisby: [imgur Album Downloader](https://github.com/alexgisby/imgur-album-downloader)
+
 jtara1: [Imgur Downloader](https://github.com/jtara1/imgur_downloader/tree/master/imgurdownloader)
